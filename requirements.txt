@@ -1,0 +1,6 @@
+langchain
+langchain-community
+requests
+beautifulsoup4
+playwright
+# playwright install chromium
